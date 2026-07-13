@@ -2,6 +2,14 @@
 
 # 📈 AI Sales Forecasting Dashboard
 
+## 🚀 Live Demo
+
+🌐 **Streamlit App:** https://salesforecasting-jffbpjdoebir9pommkng8q.streamlit.app/
+
+📂 **GitHub Repository:** https://github.com/mahakal45x09/SalesForecasting
+
+---
+
 ## 🚀 Project Overview
 
 The AI Sales Forecasting Dashboard is an end-to-end data analytics and machine learning project that predicts future sales using historical sales data. The project combines Exploratory Data Analysis (EDA), Time Series Forecasting, Machine Learning, and an interactive Streamlit dashboard to help businesses make data-driven decisions.
